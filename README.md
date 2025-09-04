@@ -6,28 +6,28 @@ I’m passionate about building in the cloud and applying data-driven solutions.
 
 ## 🔧 Technical Skills
 
-- **Cloud & Infrastructure: AWS (EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route53)
+- Cloud & Infrastructure: AWS (EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route53)
 
-- **Programming & Scripting: Python (FastAPI, requests, automation), Bash, SQL
+- Programming & Scripting: Python (FastAPI, requests, automation), Bash, SQL
 
-- **Tools: Git & GitHub, Linux, Docker (basics), Terraform (basics)
+- Tools: Git & GitHub, Linux, Docker (basics), Terraform (basics)
 
-- **Data & Analytics: SQL, ERDs, schema design, Excel, Monte Carlo simulations
+- Data & Analytics: SQL, ERDs, schema design, Excel, Monte Carlo simulations
 
 ## 🚀 Projects
-- **Ascend – Fitness & Nutrition Tracker
+- Ascend – Fitness & Nutrition Tracker
 
-- **A full-stack fitness and nutrition tracking app.
+- A full-stack fitness and nutrition tracking app.
 
-- **Built with FastAPI backend + React frontend
+- Built with FastAPI backend + React frontend
 
-- **JWT authentication and protected API routes
+- JWT authentication and protected API routes
 
-- **SQLite database for user-specific food, weight, and performance data
+- SQLite database for user-specific food, weight, and performance data
 
-- **RESTful endpoints integrated with frontend UI
+- RESTful endpoints integrated with frontend UI
 
-- **Deployed & version-controlled with Git + GitHub
+- Deployed & version-controlled with Git + GitHub
 
 
 ## 📜 Certifications  
