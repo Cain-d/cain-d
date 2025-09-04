@@ -32,7 +32,7 @@ Deployed & version-controlled with Git + GitHub
 
 📜 Certifications
 
-AWS re/Start Graduate [![AWS re/Start Graduate](https://images.credly.com/size/200x200/images/b55112fc-fd37-4006-93bd-9efa12db5ed7/aws_restart.png)](https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url)
+AWS re/Start Graduate [![AWS re/Start Graduate]([https://images.credly.com/size/200x200/images/b55112fc-fd37-4006-93bd-9efa12db5ed7/aws_restart.png)](https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png).
 
 Bachelor of Commerce majoring in Business Analytics & Inforomaation Systems (In Progress)
 
