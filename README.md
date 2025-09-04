@@ -36,8 +36,7 @@ I’m passionate about building in the cloud and applying data-driven solutions.
   <img src="https://images.credly.com/size/80x80/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="22" style="vertical-align:middle; margin-right:6px;" />
 </a>
 AWS re/Start Graduate  
-
-
+<br> <br>
 
 🎓 Bachelor of Commerce, majoring in Business Analytics & Information Systems *(In Progress)*  
 
