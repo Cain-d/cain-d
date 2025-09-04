@@ -1,10 +1,10 @@
-👋 Hi, I’m Cain Dickinson
+## 👋 Hi, I’m Cain Dickinson
 
-🌩️ Cloud & IT Support | AWS re/Start Graduate | Cloud Intern
+## 🌩️ Cloud & IT Support | AWS re/Start Graduate | Cloud Intern
 
 I’m passionate about building in the cloud and applying data-driven solutions. I recently completed the AWS re/Start program and I’m currently in a cloud internship, where I’m gaining hands-on experience with AWS infrastructure and support.
 
-🔧 Technical Skills
+## 🔧 Technical Skills
 
 Cloud & Infrastructure: AWS (EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route53)
 
@@ -14,7 +14,7 @@ Tools: Git & GitHub, Linux, Docker (basics), Terraform (basics)
 
 Data & Analytics: SQL, ERDs, schema design, Excel, Monte Carlo simulations
 
-🚀 Projects
+## 🚀 Projects
 Ascend – Fitness & Nutrition Tracker
 
 A full-stack fitness and nutrition tracking app.
@@ -42,8 +42,7 @@ AWS re/Start Graduate
 🎯 Working toward AWS Certified Cloud Practitioner  
 
 
-
-📫 Connect with Me  
+## 📫 Connect with Me  
 [GitHub](https://github.com/Cain-d) | [Email](mailto:cain.j.dickinson@gmail.com)
 
 
