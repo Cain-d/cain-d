@@ -33,17 +33,19 @@ Deployed & version-controlled with Git + GitHub
 📜 Certifications
 
 <a href="https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url">
-  <img src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="40" style="vertical-align:middle; margin-right:8px;" />
+  <img src="https://images.credly.com/size/80x80/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="40" style="vertical-align:middle; margin-right:8px;" />
 </a>
-AWS re/Start Graduate 
+AWS re/Start Graduate
 
-Bachelor of Commerce majoring in Business Analytics & Inforomaation Systems (In Progress)
+
+Bachelor of Commerce majoring in Business Analytics & Inforomation Systems (In Progress)
 
 Working toward AWS Certified Cloud Practitioner
 
-📫 Connect with Me
 
-Email: cain.j.dickinson@gmail.com
+📫 Connect with Me  
+[GitHub](https://github.com/Cain-d) | [Email](mailto:cain.j.dickinson@gmail.com)
+
 
 
 
