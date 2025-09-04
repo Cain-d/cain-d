@@ -30,16 +30,17 @@ RESTful endpoints integrated with frontend UI
 Deployed & version-controlled with Git + GitHub
 
 
-📜 Certifications
+## 📜 Certifications  
 
 <a href="https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url">
   <img src="https://images.credly.com/size/80x80/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="22" style="vertical-align:middle; margin-right:6px;" />
 </a>
-AWS re/Start Graduate
+AWS re/Start Graduate  
 
-Bachelor of Commerce majoring in Business Analytics & Inforomation Systems (In Progress)
+🎓 Bachelor of Commerce, majoring in Business Analytics & Information Systems *(In Progress)*  
 
-Working toward AWS Certified Cloud Practitioner
+🎯 Working toward AWS Certified Cloud Practitioner  
+
 
 
 📫 Connect with Me  
