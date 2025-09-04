@@ -12,7 +12,7 @@ I’m passionate about building in the cloud and applying data-driven solutions.
 
 - Tools: Git & GitHub, Linux, Docker (basics), Terraform (basics)
 
-- Data & Analytics: SQL, ERDs, schema design, Excel, Monte Carlo simulations
+- Data & Analytics: SQL, ERDs, schema design, Excel, R-studio, Statistical modelling
 
 ## 🚀 Projects
 - Ascend – Fitness & Nutrition Tracker
