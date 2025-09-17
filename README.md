@@ -17,17 +17,21 @@ I’m passionate about building in the cloud and applying data-driven solutions.
 ## 🚀 Projects
 - Ascend – Fitness & Nutrition Tracker
 
-- A full-stack fitness and nutrition tracking app.
+  - A full-stack fitness and nutrition tracking app.
 
-- Built with FastAPI backend + React frontend
+  - Built with FastAPI backend + React frontend
 
-- JWT authentication and protected API routes
+  - JWT authentication and protected API routes
 
-- SQLite database for user-specific food, weight, and performance data
+  - SQLite database for user-specific food, weight, and performance data
 
-- RESTful endpoints integrated with frontend UI
+  - RESTful endpoints integrated with frontend UI
 
-- Deployed & version-controlled with Git + GitHub
+  - Deployed & version-controlled with Git + GitHub
+- Event Ticketing System
+  - Built in 2 hours with an Agent
+  - Collaborated with others
+  - Gave a lightening talk on the system
 
 
 ## 📜 Certifications  
