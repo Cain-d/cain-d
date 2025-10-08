@@ -1,55 +1,58 @@
-## 👋 Hi, I’m Cain Dickinson
+# 👋 Hi, I’m Cain Dickinson
 
-## 🌩️ Cloud & IT Support | AWS re/Start Graduate | Cloud Intern
+**Aspiring Cloud Support Engineer**  
+AWS Certified Cloud Practitioner • AWS re/Start Graduate • Hands-on with automation, Linux, and troubleshooting.
 
-I’m passionate about building in the cloud and applying data-driven solutions. I recently completed the AWS re/Start program and I’m currently in a cloud internship, where I’m gaining hands-on experience with AWS infrastructure and support.
+---
 
-## 🔧 Technical Skills
+## ⚙️ Core Skills
+- **AWS:** EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route 53, AWS CLI
+- **DevOps & Ops:** Linux (bash), Git/GitHub, CI/CD (GitHub Actions), Docker (basics), Monitoring/Logging
+- **Backend & Data:** Python (FastAPI, requests, automation), REST APIs, SQL, schema design
+- **Other:** Communication, customer support, problem solving under pressure
 
-- Cloud & Infrastructure: AWS (EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route53)
-
-- Programming & Scripting: Python (FastAPI, requests, automation), Bash, SQL
-
-- Tools: Git & GitHub, Linux, Docker (basics), Terraform (basics)
-
-- Data & Analytics: SQL, ERDs, Schema design, Excel, R-studio, Statistical modelling
+---
 
 ## 🚀 Projects
-- Ascend – Fitness & Nutrition Tracker
 
-  - A full-stack fitness and nutrition tracking app.
+### 1) **Ascend — Fitness & Nutrition Tracker**  *(FastAPI + React)*
+A full-stack app for logging food, weight, and performance.
+- **Built:** FastAPI (JWT auth, protected routes), React, SQLite → Postgres ready
+- **Highlights:** Clean REST APIs, user-scoped data, simple analytics views
+- **What I practiced:** Auth, API design, state management, basic deployment automation
+- **Repo:** `[link to Ascend repo]`
 
-  - Built with FastAPI backend + React frontend
+### 2) **Event Tracking / Ticketing App**  *(Node/Express + SQLite)*
+Built quickly to practice full-stack delivery and deployment during my AWS internship.
+- **Built:** CRUD endpoints, lightweight UI, error handling
+- **What I practiced:** Rapid prototyping, repo hygiene, deployment flow
+- **Repo:** `[link to Event app repo]`
 
-  - JWT authentication and protected API routes
+> More in pinned repos: Lambda thumbnailer (FFmpeg + S3 triggers), infra-as-code experiments, and learning labs.
 
-  - SQLite database for user-specific food, weight, and performance data
+---
 
-  - RESTful endpoints integrated with frontend UI
+## 🏅 Certifications
+- **AWS Certified Cloud Practitioner (CCP)** — *2025*  
+  Verification: `[View Credential on Credly](https://www.credly.com/badges/fed58579-8a39-4ac9-bfe4-392dbf30a5f0/public_url)`
+- **AWS re/Start Graduate** — *2025*  
+  Verification: `[View Credential on Credly](https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url)`
 
-  - Deployed & version-controlled with Git + GitHub
-- Event Ticketing System
-  - Built in 2 hours with an Agent
-  - Collaborated with others
-  - Gave a lightening talk on the system
+---
 
+## 🎓 Education
+**Bachelor of Commerce (in progress)** — University of Auckland  
+Majors: Business Analytics & Information Systems
 
-## 📜 Certifications  
+---
 
-<a href="https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url">
-  <img src="https://images.credly.com/size/80x80/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="22" style="vertical-align:middle; margin-right:6px;" />
-</a>
-AWS re/Start Graduate  
-<br> <br>
+## 🔎 What I’m looking for
+Entry-level **Cloud Support / Junior Cloud Engineer** roles (Auckland or remote).  
+I like simplifying systems, automating repetitive work, and writing clear runbooks.
 
-🎓 Bachelor of Commerce, majoring in Business Analytics & Information Systems *(In Progress)*  
+---
 
-🎯 Working toward AWS Certified Cloud Practitioner  
-
-
-## 📫 Connect with Me  
-[GitHub](https://github.com/Cain-d) | [Email](mailto:cain.j.dickinson@gmail.com)
-
-
-
-
+## 📫 Contact
+- GitHub: https://github.com/Cain-d  
+- Email: cain.j.dickinson@gmail.com
+- Linkedin: https://www.linkedin.com/in/caindickinsoncloud/
