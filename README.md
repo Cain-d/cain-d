@@ -26,7 +26,7 @@ A full-stack app for logging food, weight, and performance.
 ### 2) **Event Tracking / Ticketing App**  *(Node/Express + SQLite)*
 Built quickly to practice full-stack delivery and deployment during my AWS internship.
 - **Built:** CRUD endpoints, lightweight UI, error handling
-- **What I practiced:** Rapid prototyping, repo hygiene, deployment flow
+- **Practiced:** Rapid prototyping, repo hygiene, and deployment flow  
 [🔗 View Repository](https://github.com/Cain-d/event-ticketing-demo)
 
 > More in pinned repos: Lambda thumbnailer (FFmpeg + S3 triggers), infra-as-code experiments, and learning labs.
@@ -46,7 +46,7 @@ Majors: Business Analytics & Information Systems
 ---
 
 ## 🔎 What I’m looking for
-Entry-level **Cloud Support / Junior Cloud Engineer** roles (Auckland or remote).  
+Entry-level Cloud Support / Junior Cloud Engineer roles (Auckland or remote).
 I like simplifying systems, automating repetitive work, and writing clear runbooks.
 
 ---
