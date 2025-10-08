@@ -29,8 +29,6 @@ Built quickly to practice full-stack delivery and deployment during my AWS inter
 - **Practiced:** Rapid prototyping, repo hygiene, and deployment flow  
 [🔗 View Repository](https://github.com/Cain-d/event-ticketing-demo)
 
-> More in pinned repos: Lambda thumbnailer (FFmpeg + S3 triggers), infra-as-code experiments, and learning labs.
-
 ---
 
 ## 🏅 Certifications
