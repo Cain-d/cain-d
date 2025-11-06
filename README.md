@@ -1,55 +1,47 @@
-# 👋 Hi, I’m Cain Dickinson
+# Cain Dickinson
 
-**Aspiring Cloud Support Engineer**  
-AWS Certified Cloud Practitioner • AWS re/Start Graduate  
-Focused on cloud operations, automation, Linux, and troubleshooting.
-
----
-
-## ⚙️ Core Skills
-**AWS:** EC2, S3, IAM, VPC, CloudFormation, CloudWatch, Lambda, RDS, Route 53, AWS CLI  
-**DevOps & Ops:** Linux (bash), Git/GitHub, CI/CD (GitHub Actions), Docker (basics), Monitoring/Logging  
-**Backend & Data:** Python (FastAPI, requests, automation), REST APIs, SQL, schema design  
-**Other:** Communication, customer support, problem-solving under pressure
+Cloud Support Engineer (AWS)  
+Focused on cloud infrastructure, reliability, and security.
 
 ---
 
-## 🚀 Projects
-
-### 1) Ascend — Fitness & Nutrition Tracker *(FastAPI + React)*
-A full-stack app for logging food, weight, and performance.  
-- **Built:** FastAPI (JWT auth, protected routes), React, SQLite → Postgres ready  
-- **Highlights:** REST APIs, user-scoped data, simple analytics views  
-- **Practiced:** API design, state management, basic deployment automation  
-[🔗 View Repository](https://github.com/Cain-d/Ascend)
-
-### 2) **Event Tracking / Ticketing App**  *(Node/Express + SQLite)*
-Built quickly to practice full-stack delivery and deployment during my AWS internship.
-- **Built:** CRUD endpoints, lightweight UI, error handling
-- **Practiced:** Rapid prototyping, repo hygiene, and deployment flow  
-[🔗 View Repository](https://github.com/Cain-d/event-ticketing-demo)
+### Core Skills
+- **Cloud:** AWS (EC2, IAM, VPC, S3, DynamoDB, Lambda, CloudWatch, ECR/ECS, RDS)
+- **Systems:** Linux, networking fundamentals, monitoring & incident response
+- **Development:** Python (FastAPI), SQL, REST APIs, Git/GitHub, CI/CD basics
+- **Security:** IAM roles/policies, least privilege, identity & access patterns
 
 ---
 
-## 🏅 Certifications
-- **AWS Certified Cloud Practitioner (2025)** — [View Credential on Credly](https://www.credly.com/badges/f6dbbf79-8a3b-4ac9-bf94-39b3f59cfb4b/public_url)
-- **AWS re/Start Graduate (2025)** — [View Credential on Credly](https://www.credly.com/badges/b55112fc-fd37-4006-93bd-9efa12db5ed7/public_url)
+### Projects
+
+**1) Ascend — Fitness & Performance Tracker (FastAPI + React)**  
+Backend-first full-stack project exploring authentication, data modeling, and API design.
+- FastAPI backend, SQLite → Postgres-ready schema
+- Auth + protected routes
+- Analytics-focused dashboard logic
+- Repo: https://github.com/Cain-d/Ascend
+
+**2) Event Tracking / Ticketing App (Node/Express + SQLite)**  
+Built to practice CRUD design and deployment flow during AWS internship.
+- REST API architecture, input validation, and structured routing
+- Deployment & logging experiments
+- Repo: https://github.com/Cain-d/event-ticketing-demo
 
 ---
 
-## 🎓 Education
-**Bachelor of Commerce (in progress)** — University of Auckland  
-Majors: Business Analytics & Information Systems
+### Certifications
+- AWS Certified Cloud Practitioner (2025)
+- AWS re/Start Graduate (2025)
 
 ---
 
-## 🔎 What I’m looking for
-Entry-level Cloud Support / Junior Cloud Engineer roles (Auckland or remote).
-I like simplifying systems, automating repetitive work, and writing clear runbooks.
+### Education
+Te Pūkenga — Applied Cyber & Cloud Security (Level 6–7)  
+University of Auckland — Bachelor of Commerce (Business Analytics & IS) *in progress*
 
 ---
 
-## 📫 Contact
-📂 [GitHub](https://github.com/Cain-d)  
-✉️ [Email](mailto:cain.j.dickinson@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/caindickinsoncloud/)
+### Contact
+LinkedIn: https://www.linkedin.com/in/caindickinsoncloud  
+GitHub: https://github.com/Cain-d
