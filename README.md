@@ -23,6 +23,14 @@ Linux, basic networking, monitoring, incident response
 
 ### Projects
 
+**AWS Resource Optimizer** — Cloud Cost Optimization Tool (Python + AWS)
+Production-ready tool for identifying idle AWS resources and calculating cost savings opportunities.
+• Modular scanner architecture for EC2, RDS, and EBS resource analysis
+• CloudFormation deployment templates with serverless Lambda execution
+• Multi-region scanning with configurable thresholds and automated reporting
+• CI/CD pipeline with comprehensive documentation and real-world usage examples
+Repo: https://github.com/cain-d/aws-resource-optimizer
+
 **Ascend — Fitness & Performance Tracker (FastAPI + React)**  
 Full-stack project exploring backend-first API design and analytics.
 
