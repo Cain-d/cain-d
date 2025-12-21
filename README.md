@@ -50,6 +50,7 @@ Repo: https://github.com/Cain-d/event-ticketing-demo
 ---
 
 ### Certifications
+- AWS Certified AI Practitioner (2025)  
 - AWS Certified Cloud Practitioner (2025)  
 - AWS re/Start Graduate (2025)
 
