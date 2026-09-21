@@ -1,6 +1,6 @@
 # Cain Dickinson
 
-Cloud Support Engineer (AWS).  
+Cloud Engineer (AWS).  
 Working across cloud infrastructure, reliability engineering, and security hardening.
 
 ---
@@ -50,6 +50,10 @@ Repo: https://github.com/Cain-d/event-ticketing-demo
 ---
 
 ### Certifications
+- AWS Machine Learning Associate (2026)
+- AWS Solutions Architect Professional (2026)
+- AWS Cloud Ops Associate (2026)
+- AWS Solutions Architect Associate (2026)
 - AWS Certified AI Practitioner (2025)  
 - AWS Certified Cloud Practitioner (2025)  
 - AWS re/Start Graduate (2025)
@@ -57,15 +61,13 @@ Repo: https://github.com/Cain-d/event-ticketing-demo
 ---
 
 ### Education
-- Te Pūkenga — Applied Cyber & Cloud Security (Level 6–7)  
-- University of Auckland — Bachelor of Commerce, Business Analytics & IS (in progress)
+- Te Pūkenga — Cyber Security and Cloud Architecture Micro-credentials
+- University of Auckland — Business Analytics & Information Systems
 
 ---
 
 ### Currently Learning
-- AWS Solutions Architect Associate  
-- Cloud security patterns and identity architectures  
-- Python automation for cloud operations
+AI/ML
 
 ---
 
