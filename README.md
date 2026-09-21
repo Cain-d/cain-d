@@ -1,7 +1,6 @@
 # Cain Dickinson
 
-Cloud Engineer (AWS).  
-Working across cloud infrastructure, reliability engineering, and security hardening.
+Cloud Engineer (AWS)
 
 ---
 
