@@ -23,6 +23,9 @@ Linux, basic networking, monitoring, incident response
 
 ### Projects
 
+**Signal**
+- Built a browser-based fitness analytics dashboard that parses messy CSV and XLSX exports from fitness apps and turns them into visualisations for exploring relationships between training, nutrition and bodyweight. All parsing runs client-side in TypeScript, so no data is uploaded or stored. Handles multi-sheet workbooks, Excel serial dates and outline grouping. Deployed with a hardened CSP, HSTS and self-hosted fonts.
+
 **AWS Resource Optimizer** — Cloud Cost Optimization Tool (Python + AWS)
 Production-ready tool for identifying idle AWS resources and calculating cost savings opportunities.
 
